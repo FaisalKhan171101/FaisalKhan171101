@@ -3,12 +3,6 @@
 
 
 
-Hello everyone !! I am **Euhid Aman**, a passionate **Full Stack Developer**.<br/>
-I am currently doing my **B.Tech** in the field of **Computer Science and Engineering** from **Presidency University, Bangalore**.<br/>
-I am a **self-taught** and **self-motivated** person who is always looking for new challenges and learning new things.<br/>
-Along, with contributing to Open-Source projects, I also like to share my knowledge and skills with others, by conducting various **Webinars** and **Workshops**.<br/>
-I am also a **β Microsoft Learn Student Ambassador** and **Codechef-Competitive Programming Lead**.<br/>
-
 <h2 align="center">Social Links 🔗 </h2>
 <p align="center">
 <a href="https://github.com/Faisalkhan171101" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>  
