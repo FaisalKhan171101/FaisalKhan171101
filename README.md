@@ -1,24 +1,22 @@
 <h2 align="center">Hi there 👋, Welcome to my profile !!</h2>
 
-![FaisalKhan171101-banner](![image](https://user-images.githubusercontent.com/87291732/208252165-cbdfc471-9a13-4fb4-bde1-5f4f06b37d11.png))
-
+<img align='center' alt="banner" height="320" src="https://user-images.githubusercontent.com/87291732/208253224-0be10960-8208-4350-a70e-f9112a6e0e97.png"/>
 
 <h2 align="center">Hello everyone !! I am <b>Faisal Khan</h2>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## I'm a Computer Science and Engineering Student  
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend  technologies 😅
+- 👨‍💻 I’m currently working on software and web development using various technologies.
+- 📚 I am a self-taught and self-motivated person who is always looking for new challenges and learning new things.
+- 😊 Along, with contributing to Open-Source projects, I also like to share my knowledge and skills with others.
 - 💪🏼 Future Goals: Learn more technologies - Never stop learning.
 
 --- 
 
-
 <h2 align="center">My GitHub Stats 📈 </h2>
 
 <p align=center>
- 
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FaisalKhan171101&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FaisalKhan171101&theme=github)
