@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋, Welcome to my profile !!</h2>
 
-![euhidaman-banner](https://user-images.githubusercontent.com/65843257/145684779-4b22db7b-c5fb-433f-996a-c694d61308b2.png)
+![FaisalKhan171101-banner](![image](https://user-images.githubusercontent.com/87291732/208252165-cbdfc471-9a13-4fb4-bde1-5f4f06b37d11.png))
 
 
 <h2 align="center">Hello everyone !! I am <b>Faisal Khan</h2>
