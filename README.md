@@ -5,12 +5,12 @@
 <h2 align="center">Hello everyone !! I am <b>Faisal Khan</h2>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Computer Science and Engineering Student  
+## I'm a Backend Develop
 
-- 👨‍💻 I’m currently working on software and web development using various technologies.
-- 📚 I am a self-taught and self-motivated person who is always looking for new challenges and learning new things.
-- 😊 Along, with contributing to Open-Source projects, I also like to share my knowledge and skills with others.
-- 💪🏼 Future Goals: Learn more technologies - Never stop learning.
+- 👨‍💻 I'm presently engaged in Ruby on Rails development.
+- 📚 Self-taught and driven, I thrive on embracing new challenges and expanding my skill set.
+- 😊 I actively contribute to Open-Source projects and enjoy sharing my expertise with others.
+- 💪🏼 Future Goals: Continuously expand my knowledge in various technologies - Lifelong learner.
 
 --- 
 
@@ -29,7 +29,7 @@
 <h2 align="center">Social Links 🔗 </h2>
 <p align="center">
 <a href="https://github.com/Faisalkhan171101" target="_blank"><img src='https://cdn-icons-png.flaticon.com/512/25/25231.png' alt='github' height='40'></a>  
- <a href="https://www.linkedin.com/in/faisal-khan-39aaa1208/" target="_blank"><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png' alt='linkedin' height='35'> </a> 
+ <a href="https://www.linkedin.com/in/faisalkhan17/" target="_blank"><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png' alt='linkedin' height='35'> </a> 
  <a href="https://www.instagram.com/faisal.amir.khan/" target="_blank"><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png' alt='instagram' height='35'></a> 
   <a href="https://www.twitter.com/Faisalkn171101/" target="_blank"><img src='https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg' alt='twitter' height='35'></a> 
  <a href="https://www.hackerrank.com/FaisalKhan17/" target="_blank"><img src='https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png' alt='Hackerrank' height='40'></a> 
