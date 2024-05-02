@@ -5,11 +5,10 @@
 <h2 align="center">Hello everyone !! I am <b>Faisal Khan</h2>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Backend Develop
+## I'm presently engaged in Ruby on Rails development.
 
-- 👨‍💻 I'm presently engaged in Ruby on Rails development.
-- 📚 Self-taught and driven, I thrive on embracing new challenges and expanding my skill set.
-- 😊 I actively contribute to Open-Source projects and enjoy sharing my expertise with others.
+- 👨‍💻 Self-taught and driven, I thrive on embracing new challenges and expanding my skill set.
+- 📚 I actively contribute to Open-Source projects and enjoy sharing my expertise with others.
 - 💪🏼 Future Goals: Continuously expand my knowledge in various technologies - Lifelong learner.
 
 --- 
